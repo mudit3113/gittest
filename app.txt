@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 internet added
+=======
+music player feature added
+>>>>>>> phone
